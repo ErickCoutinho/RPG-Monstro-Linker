@@ -1,6 +1,6 @@
 # RPG-Monster-Linker
 
-Este projeto é uma ferramenta que visa linkar diferentes obras de RPG, utilizando como base os sistemas Tagmar, Pathfinder e Dungeons & Dragons (D&D). A ideia central é criar um banco de dados unificado que contenha informações sobre monstros presentes em Tagmar, e encontrar monstros similares ou relacionados nos sistemas Pathfinder e D&D.
+Este projeto é uma ferramenta que visa linkar diferentes obras de RPG, utilizando como base os sistemas Tagmar, Pathfinder e Dungeons & Dragons (D&D). A ideia central é criar um banco de dados unificado que contenha informações sobre monstros presentes em Tagmar, e encontrar monstros similares ou relacionados nos sistemas Pathfinder e D&D. Além da linkagem, foi feita uma análise descritiva para conhecer os dados e suas características.
 
 ## Equipe
 
