@@ -75,6 +75,7 @@ janela.geometry("600x600")
 janela.iconbitmap("shield.ico")
 
 imagem_fundo = Image.open("imgrpg.jpg")
+#Selecione as dimensões do seu pc
 imagem_fundo = imagem_fundo.resize((1366, 768), PIL.Image.LANCZOS)
 imagem_fundo = ImageTk.PhotoImage(imagem_fundo)
 
