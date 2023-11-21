@@ -22,7 +22,7 @@ Pesquisa de Monstros: Utilizando scripts em Python, é possível realizar pesqui
 
 ## Estrutura do Banco de Dados
 
-O banco de dados bd_bestas possui as seguintes colunas:
+O datset bd_bestas possui as seguintes colunas:
 
 Tagmar: Informações específicas do monstro em Tagmar.
 
