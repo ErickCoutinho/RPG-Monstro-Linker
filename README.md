@@ -23,7 +23,7 @@ ADD descrição de cada atributo das colunas de cada sistema
 
 O banco de dados bd_bestas possui as seguintes colunas:
 
-#Tagmar:
+## Tagmar:
 Os 7 atributos podem basicamente assumir valores entre -4 e 6. (obs: alguns seres celestiais podem atigir valores superiores a 13 pontos.)
 
 Atributos:
