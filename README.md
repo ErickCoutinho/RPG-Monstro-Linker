@@ -42,7 +42,7 @@ AGI(tagmar): Agilidade - São os reflexos, a rapidez e a coordenação. Esta car
 
 PER(tagmar): Percepção - Capacidade do indivíduo de perceber o ambiente em que está. Inclui a atenção e a capacidade de concentração. É de extrema importância para Rastreadores e no uso de Habilidades como Manusear Armadilhas, Observar e Escutar.
 
-#Pathfinder:
+## Pathfinder:
 Os valores de atributos de pessoas comuns variam de 3 a 18, porém personagens de nível elevado podem ter valores de atributo muito acima de 18.
 
 Atributos:
@@ -59,7 +59,7 @@ Wis (Path): Representa a intuição, percepção e força de vontade do personag
 
 Cha (Path): Reflete o magnetismo pessoal, capacidade de liderança e habilidade social do personagem. Afeta testes de diplomacia, intimidação e blefe, além de influenciar a reação de outras criaturas em relação ao personagem.
 
-#D&D:
+## D&D:
 A pontuação máxima de um atributo é geralmente 20, isso significa que um personagem, em condições normais, não pode ter um atributo superior a 20 sem o auxílio de efeitos mágicos, itens mágicos, ou outras circunstâncias especiais.
 
 Atributos:
