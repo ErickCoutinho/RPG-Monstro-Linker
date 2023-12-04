@@ -76,5 +76,5 @@ Wis (D&D): Reflete a percepção, intuição e senso comum do personagem. Afeta 
 
 Cha (D&D): Representa a personalidade, carisma e poder de persuasão do personagem. Pode influenciar a interação social, a capacidade de liderança e a habilidade de convencer os outros.
 
-Contribuição
+## Contribuição
 Sinta-se à vontade para contribuir com novos monstros, correções ou melhorias.
