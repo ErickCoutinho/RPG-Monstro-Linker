@@ -12,6 +12,10 @@ Victor Matheus Araújo Oliveira
 Orientação:
 
 Professor Artur de Oliveira da Rocha Franco
+## Arquivos
+Bd_bestas: dataset final
+interface_pesquisador_besta: Código da construção da interface de pesquisa.
+análise_descritiva: análise dos datasets de modo separado e de forma conjunta.
 
 Funcionalidades Principais
 Banco de Dados Unificado: O projeto conta com um banco de dados central, chamado bd_bestas, que inclui 81 monstros de Tagmar. Cada entrada contém informações detalhadas, como descrição e atributos específicos para Tagmar, Pathfinder e D&D.
