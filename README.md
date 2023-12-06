@@ -14,7 +14,9 @@ Orientação:
 Professor Artur de Oliveira da Rocha Franco
 ## Arquivos
 Bd_bestas: dataset final
+
 interface_pesquisador_besta: Código da construção da interface de pesquisa.
+
 análise_descritiva: análise dos datasets de modo separado e de forma conjunta.
 
 Funcionalidades Principais
